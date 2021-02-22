@@ -45,3 +45,13 @@ h2 {
     margin: 10%;
   }
 }
+@media screen and (min-width: 1025px) and (max-width: 1200px){
+  .container{
+    margin: 10%;
+  }
+}
+@media screen and (min-width: 1025px) and (max-width: 1200px){
+  h1, h2, p{
+    font-size: large;
+  }
+}
