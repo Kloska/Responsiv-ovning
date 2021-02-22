@@ -40,3 +40,8 @@ h2 {
     margin: 5%;
   }
 }
+@media screen and (min-width: 769px) and (max-width: 1024px){
+  .container{
+    margin: 10%;
+  }
+}
