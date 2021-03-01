@@ -35,6 +35,10 @@ h2 {
   padding-right: 1rem;
 }
 
+.fot {
+  background-color: lightslategray;
+}
+
 @media screen and (min-width: 481px) and (max-width: 768px){
   .container{
     margin: 5%;
